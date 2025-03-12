@@ -6,7 +6,9 @@ Ready is an Optical Character Recognition (OCR) application that extracts text f
 
 1. Go to [lechamois.github.io/downloads.html](https://lechamois.github.io/downloads.html).
 2. Download the latest version of Ready.
-3. Make sure Tesseract OCR is installed on your Windows 10/11 system:
+3. Alternatively, download Ready directly from Dropbox:  
+   [![Download Ready](https://img.shields.io/badge/Download-Ready-blue?style=for-the-badge&logo=dropbox)](https://www.dropbox.com/scl/fi/c0134kytek3nrf8lyy6f4/Ready.exe?rlkey=1in50f30rwwfpupj1uv2umlla&st=qp0w0adl&dl=1)
+4. Make sure Tesseract OCR is installed on your Windows 10/11 system:
    - Download and install [Tesseract OCR](https://github.com/UB-Mannheim/tesseract/wiki).
 
 ## Usage
